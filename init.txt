@@ -1,0 +1,37 @@
+;game_difficulty_set hard
+;game_difficulty_set easy
+game_difficulty_set impossible
+
+player_enable_input 1
+;ai_debug_ignore_player 1
+;cheat_bump_possession 1
+cheat_deathless_player 1
+;cheat_medusa 1
+cheat_jetpack 1
+;debug_damage 1
+
+;rasterizer_lightmap_mode 0
+;rasterizer_stats 2
+
+;debug_objects 1
+;debug_objects_bounding_spheres 1
+;debug_objects_collision_models 1
+;debug_objects_pathfinding_spheres 1
+;debug_unit_animations 1
+
+;debug_portals 1
+;debug_objects_biped_autoaim_pills 1
+;debug_objects_biped_physics_pills 1
+
+;debug_objects_physics 1
+;debug_unit_animations 1
+;sound_set_master_gain 0.5
+;debug_scripting 1
+;render_model_nodes 1
+framerate_throttle 0
+show_hud 0
+
+;map_name levels\m0\m0
+map_name levels\m1\m1
+;map_name levels\m2\m2
+;map_name levels\m3\m3

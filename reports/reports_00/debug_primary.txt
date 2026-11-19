@@ -1,0 +1,20 @@
+
+
+============================================================================================
+tool  play pc untracked version  May  2 2024 16:57:14
+============================================================================================
+
+
+11.19.26 21:57:03.245 0000001         f0000000  WARNING 1 clusters in structure_bsp levels\m2\a have no background sound or sound environment. 
+11.19.26 21:57:03.317 0000002         f0000000  WARNING 1 clusters in structure_bsp levels\m2\d have no background sound or sound environment. 
+11.19.26 21:57:03.321 0000003         f0000000  WARNING 1 clusters in structure_bsp levels\m2\e have no background sound or sound environment. 
+
+
+============================================================================================
+tool  play pc untracked version  May  2 2024 16:57:14
+============================================================================================
+
+
+11.19.26 21:57:11.963 0000001         f0000000  WARNING 1 clusters in structure_bsp levels\m3\a have no background sound or sound environment. 
+11.19.26 21:57:11.966 0000002         f0000000  WARNING 1 clusters in structure_bsp levels\m3\b have no background sound or sound environment. 
+11.19.26 21:57:11.970 0000003         f0000000  WARNING 1 clusters in structure_bsp levels\m3\c have no background sound or sound environment. 

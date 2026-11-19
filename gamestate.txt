@@ -1,6 +1,4 @@
                                   header,              (null),      8240
-rasterizer model ambient reflection tint,              (null),        16
-                     screen effect filth,              (null),       120
                             game globals,              (null),      7952
                        game time globals,              (null),        48
                  game allegiance globals,              (null),       180
@@ -44,7 +42,6 @@ rasterizer model ambient reflection tint,              (null),        16
                breakable surface globals,              (null),     16900
                                   decals,          data array,    458808
                            decal globals,              (null),     10252
-                      decal vertex cache,          lruv cache,    229500
                                  players,          data array,     49208
                          players globals,              (null),       264
                   player control globals,              (null),       596
@@ -82,4 +79,3 @@ rasterizer model ambient reflection tint,              (null),        16
                        cinematic globals,              (null),        32
                        achievements info,              (null),       132
                       game settings info,              (null),         4
-final size 5031448, remaining size 997864, alloc crc 0xB010D914

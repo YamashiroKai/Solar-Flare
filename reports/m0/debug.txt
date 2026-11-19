@@ -1,0 +1,11 @@
+
+
+11.19.26 21:58:50  tool pc 01.06.66.HELL ----------------------------------------------
+11.19.26 21:58:50  ### the biped 'characters\drone shigure\drone' has no 'head' marker
+11.19.26 21:58:50  ### the biped 'characters\drone shigure\drone' has no 'body' marker
+11.19.26 21:58:50  ### the biped 'characters\drone shigure\drone shield' has no 'head' marker
+11.19.26 21:58:50  ### the biped 'characters\drone shigure\drone shield' has no 'body' marker
+11.19.26 21:58:50  the meter definition ui\hud\cyborg shield does not specify a stencil bitmap group.
+11.19.26 21:58:50  the meter definition ui\hud\cyborg body does not specify a stencil bitmap group.
+11.19.26 21:58:50  Successfully rebuilt 2 script files
+11.19.26 21:58:50  recompiling scripts after scenarios were merged.
