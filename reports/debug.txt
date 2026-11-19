@@ -1,0 +1,12 @@
+
+
+11.19.26 21:18:13  guerilla pc 01.06.66.HELL ----------------------------------------------
+11.19.26 21:18:13  file_open('tags\levels\m5\m5.scenario') error 0x00000003 'The system cannot find the path specified. '
+11.19.26 21:18:13  couldn't open scenario tag 'm5.scenario'.
+11.19.26 21:18:13  couldn't open tag
+11.19.26 21:18:15  file_open('tags\levels\test\king_hit_test\king_hit_test.scenario') error 0x00000003 'The system cannot find the path specified. '
+11.19.26 21:18:15  couldn't open scenario tag 'king_hit_test.scenario'.
+11.19.26 21:18:15  couldn't open tag
+11.19.26 21:18:16  file_open('tags\levels\m5\chapters.unicode_string_list') error 0x00000003 'The system cannot find the path specified. '
+11.19.26 21:18:16  couldn't open unicode_string_list tag 'chapters.unicode_string_list'.
+11.19.26 21:18:16  couldn't open tag

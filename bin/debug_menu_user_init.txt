@@ -1,0 +1,1 @@
+<item type = command name = "Foundry: Drop needle_carbine [weapon]" variable = "drop \"needle_carbine.weapon\"">

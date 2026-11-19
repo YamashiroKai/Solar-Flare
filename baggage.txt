@@ -1,0 +1,277 @@
+==scenario file levels\th\th digsite==
+aggregate bloat: 110951
+actor::	bloat:	728
+actor_variant::	bloat:	280
+biped::	bloat:	1072
+biped::contact_point_block	bloat:	128
+biped::dialogue_variant_block	bloat:	42
+biped::object_function_block	bloat:	822
+biped::unit_camera_track_block	bloat:	12
+biped::unit_weapon_block	bloat:	40
+bitmap::	bloat:	78
+bitmap::bitmap_data_block	bloat:	1188
+bitmap::bitmap_group_sequence_block	bloat:	1248
+bitmap::bitmap_group_sprite_block	bloat:	306
+camera_track::	bloat:	64
+camera_track::camera_track_control_point_block	bloat:	576
+contrail::	bloat:	158
+contrail::contrail_point_states_block	bloat:	96
+damage_effect::	bloat:	3936
+decal::	bloat:	328
+dialogue::	bloat:	2908
+effect::	bloat:	480
+effect::effect_event_block	bloat:	720
+effect::effect_part_block	bloat:	1452
+effect::effect_particles_block	bloat:	4692
+equipment::	bloat:	1860
+garbage::	bloat:	644
+gbxmodel::	bloat:	882
+gbxmodel::gbxmodel_geometry_block	bloat:	1536
+gbxmodel::gbxmodel_geometry_part_block	bloat:	1092
+gbxmodel::gbxmodel_region_block	bloat:	416
+gbxmodel::gbxmodel_region_permutation_block	bloat:	480
+gbxmodel::model_marker_instance_block	bloat:	15
+gbxmodel::model_markers_block	bloat:	612
+gbxmodel::model_node_block	bloat:	5332
+gbxmodel::model_shader_reference_block	bloat:	784
+lens_flare::	bloat:	174
+lens_flare::lens_flare_reflection_block	bloat:	504
+light::	bloat:	582
+light_volume::	bloat:	246
+light_volume::light_volume_frame_block	bloat:	112
+material_effects::	bloat:	384
+material_effects::material_effect_block	bloat:	336
+material_effects::material_effect_material_block	bloat:	1024
+model_animations::	bloat:	4
+model_animations::animation_block	bloat:	13260
+model_animations::animation_graph_node_block	bloat:	276
+model_animations::animation_graph_sound_reference_block	bloat:	264
+model_animations::animation_graph_unit_seat_block	bloat:	440
+model_animations::animation_graph_weapon_animations_block	bloat:	16
+model_animations::animation_graph_weapon_block	bloat:	64
+model_animations::animation_graph_weapon_type_block	bloat:	32
+model_collision_geometry::	bloat:	390
+model_collision_geometry::damage_materials_block	bloat:	88
+model_collision_geometry::damage_regions_block	bloat:	64
+model_collision_geometry::node	bloat:	240
+model_collision_geometry::sphere	bloat:	14
+particle::	bloat:	1386
+point_physics::	bloat:	160
+projectile::	bloat:	564
+projectile::object_attachment_block	bloat:	90
+projectile::object_function_block	bloat:	274
+projectile::object_widget_block	bloat:	16
+projectile::projectile_material_response_block	bloat:	5742
+scenario::	bloat:	668
+scenario::actor_starting_locations_block	bloat:	20
+scenario::ai_command_block	bloat:	18
+scenario::ai_command_list_block	bloat:	34
+scenario::ai_command_point_block	bloat:	16
+scenario::editor_comment_block	bloat:	16
+scenario::encounter_block	bloat:	608
+scenario::hs_globals_block	bloat:	216
+scenario::hs_scripts_block	bloat:	520
+scenario::scenario_biped_palette_block	bloat:	64
+scenario::scenario_equipment_block	bloat:	195
+scenario::scenario_equipment_palette_block	bloat:	256
+scenario::scenario_object_names_block	bloat:	4
+scenario::scenario_players_block	bloat:	24
+scenario::scenario_scenery_block	bloat:	1755
+scenario::scenario_scenery_palette_block	bloat:	384
+scenario::scenario_structure_bsps_block	bloat:	16
+scenario::scenario_vehicle_block	bloat:	988
+scenario::scenario_vehicle_palette_block	bloat:	384
+scenario::squads_block	bloat:	108
+scenario_structure_bsp::	bloat:	148
+scenario_structure_bsp::structure_bsp_cluster_block	bloat:	28
+scenario_structure_bsp::structure_bsp_detail_object_data_block	bloat:	16
+scenario_structure_bsp::structure_bsp_leaf_block	bloat:	184
+scenario_structure_bsp::structure_bsp_lightmap_block	bloat:	54
+scenario_structure_bsp::structure_bsp_material_block	bloat:	160
+scenario_structure_bsp::structure_collision_materials_block	bloat:	8
+scenery::	bloat:	298
+shader_environment::	bloat:	456
+shader_model::	bloat:	1092
+shader_transparent_generic::	bloat:	6
+shader_transparent_generic::shader_transparent_generic_map_block	bloat:	2
+shader_transparent_plasma::	bloat:	174
+sky::	bloat:	44
+sky::sky_light_block	bloat:	32
+sound::	bloat:	10440
+sound::sound_permutations_block	bloat:	15600
+sound::sound_pitch_range_block	bloat:	2520
+unit_hud_interface::	bloat:	806
+vehicle::	bloat:	278
+vehicle::object_attachment_block	bloat:	54
+vehicle::object_function_block	bloat:	1096
+vehicle::powered_seat_block	bloat:	60
+vehicle::unit_camera_track_block	bloat:	12
+vehicle::unit_hud_reference_block	bloat:	32
+vehicle::unit_seat_block	bloat:	70
+vehicle::unit_weapon_block	bloat:	20
+weapon::	bloat:	2232
+weapon::magazine_objects	bloat:	20
+weapon::magazines	bloat:	230
+weapon::object_attachment_block	bloat:	108
+weapon::object_function_block	bloat:	2740
+weapon::object_widget_block	bloat:	16
+weapon::trigger_firing_effect_block	bloat:	160
+weapon::triggers	bloat:	440
+weapon_hud_interface::	bloat:	528
+weapon_hud_interface::global_hud_multitexture_overlay_definition	bloat:	704
+weapon_hud_interface::global_hud_multitexture_overlay_effector_definition	bloat:	656
+weapon_hud_interface::global_hud_screen_effect_definition	bloat:	208
+weapon_hud_interface::weapon_hud_crosshair_block	bloat:	648
+weapon_hud_interface::weapon_hud_crosshair_item_block	bloat:	116
+weapon_hud_interface::weapon_hud_static_block	bloat:	408
+
+
+==block sizes==
+
+biped::contact_point_block	total size:	256
+biped::dialogue_variant_block	total size:	168
+biped::object_change_color_permutations	total size:	28
+biped::object_change_colors	total size:	116
+biped::object_function_block	total size:	1080
+biped::unit_camera_track_block	total size:	28
+biped::unit_weapon_block	total size:	72
+bitmap::bitmap_data_block	total size:	2592
+bitmap::bitmap_group_sequence_block	total size:	7712
+bitmap::bitmap_group_sprite_block	total size:	1632
+bitmap::bitmap_pixel_data	total size:	5425150
+bitmap::color_plate_data	total size:	4081464
+camera_track::camera_track_control_point_block	total size:	1080
+contrail::contrail_point_states_block	total size:	312
+effect::effect_event_block	total size:	28704
+effect::effect_locations_block	total size:	1024
+effect::effect_part_block	total size:	3432
+effect::effect_particles_block	total size:	10672
+gbxmodel::gbxmodel_geometry_block	total size:	2810946
+gbxmodel::gbxmodel_geometry_part_block	total size:	777212
+gbxmodel::gbxmodel_region_block	total size:	5212
+gbxmodel::gbxmodel_region_permutation_block	total size:	1408
+gbxmodel::model_marker_instance_block	total size:	480
+gbxmodel::model_markers_block	total size:	4704
+gbxmodel::model_node_block	total size:	9672
+gbxmodel::model_shader_reference_block	total size:	1792
+gbxmodel::model_triangle_block	total size:	11862
+gbxmodel::model_vertex_compressed_block	total size:	110464
+gbxmodel::model_vertex_uncompressed_block	total size:	234736
+lens_flare::lens_flare_reflection_block	total size:	1792
+light_volume::light_volume_frame_block	total size:	176
+material_effects::material_effect_block	total size:	20556
+material_effects::material_effect_material_block	total size:	3072
+model_animations::animation_block	total size:	3153870
+model_animations::animation_default_data_definition	total size:	724
+model_animations::animation_frame_data_definition	total size:	13440
+model_animations::animation_graph_node_block	total size:	2944
+model_animations::animation_graph_sound_reference_block	total size:	1320
+model_animations::animation_graph_unit_seat_block	total size:	71640
+model_animations::animation_graph_unit_seat_ik_point	total size:	384
+model_animations::animation_graph_weapon_animations_block	total size:	28
+model_animations::animation_graph_weapon_block	total size:	828
+model_animations::animation_graph_weapon_type_block	total size:	120
+model_animations::frame_info_data_definition	total size:	0
+model_animations::unit_damage_animations	total size:	704
+model_animations::unit_seat_animation_block	total size:	54
+model_animations::weapon_class_animation_block	total size:	204
+model_collision_geometry::bsp	total size:	1008
+model_collision_geometry::bsp2d reference	total size:	64
+model_collision_geometry::bsp3d node	total size:	96
+model_collision_geometry::damage_materials_block	total size:	288
+model_collision_geometry::damage_permutations_block	total size:	32
+model_collision_geometry::damage_regions_block	total size:	464
+model_collision_geometry::edge	total size:	336
+model_collision_geometry::leaf	total size:	64
+model_collision_geometry::node	total size:	20464
+model_collision_geometry::plane	total size:	128
+model_collision_geometry::sphere	total size:	32
+model_collision_geometry::surface	total size:	96
+model_collision_geometry::vertex	total size:	128
+projectile::object_attachment_block	total size:	360
+projectile::object_function_block	total size:	360
+projectile::object_widget_block	total size:	32
+projectile::projectile_material_response_block	total size:	15840
+scenario::actor_palette_block	total size:	1024
+scenario::actor_starting_locations_block	total size:	280
+scenario::ai_command_block	total size:	96
+scenario::ai_command_list_block	total size:	232
+scenario::ai_command_point_block	total size:	40
+scenario::editor_comment_block	total size:	49
+scenario::editor_comment_data_definition	total size:	1
+scenario::editor_scenario_data_definition	total size:	642
+scenario::encounter_block	total size:	16576
+scenario::hs_globals_block	total size:	368
+scenario::hs_scripts_block	total size:	1196
+scenario::hs_source_data_definition	total size:	2088
+scenario::hs_source_files_block	total size:	2556
+scenario::hs_string_data_definition	total size:	1457
+scenario::hs_syntax_data_definition	total size:	655396
+scenario::scenario_biped_palette_block	total size:	96
+scenario::scenario_equipment_block	total size:	1560
+scenario::scenario_equipment_palette_block	total size:	384
+scenario::scenario_object_names_block	total size:	36
+scenario::scenario_players_block	total size:	52
+scenario::scenario_scenery_block	total size:	3240
+scenario::scenario_scenery_palette_block	total size:	576
+scenario::scenario_sky_reference_block	total size:	16
+scenario::scenario_structure_bsps_block	total size:	32
+scenario::scenario_vehicle_block	total size:	1560
+scenario::scenario_vehicle_palette_block	total size:	576
+scenario::squads_block	total size:	512
+scenario_structure_bsp::bsp	total size:	23388
+scenario_structure_bsp::bsp2d node	total size:	2720
+scenario_structure_bsp::bsp2d reference	total size:	2208
+scenario_structure_bsp::bsp3d node	total size:	2280
+scenario_structure_bsp::edge	total size:	8568
+scenario_structure_bsp::leaf	total size:	736
+scenario_structure_bsp::plane	total size:	1760
+scenario_structure_bsp::structure_bsp_cluster_block	total size:	3236
+scenario_structure_bsp::structure_bsp_cluster_data_definition	total size:	4
+scenario_structure_bsp::structure_bsp_cluster_encoded_sound_data	total size:	0
+scenario_structure_bsp::structure_bsp_compressed_vertex_data_definition	total size:	3440
+scenario_structure_bsp::structure_bsp_detail_object_data_block	total size:	64
+scenario_structure_bsp::structure_bsp_leaf_block	total size:	1472
+scenario_structure_bsp::structure_bsp_lightmap_block	total size:	131204
+scenario_structure_bsp::structure_bsp_material_block	total size:	117836
+scenario_structure_bsp::structure_bsp_node_block	total size:	1140
+scenario_structure_bsp::structure_bsp_pathfinding_surfaces_block	total size:	189
+scenario_structure_bsp::structure_bsp_subcluster_block	total size:	3132
+scenario_structure_bsp::structure_bsp_subcluster_surface_index_block	total size:	232
+scenario_structure_bsp::structure_bsp_surface_block	total size:	4032
+scenario_structure_bsp::structure_bsp_surface_reference_block	total size:	7192
+scenario_structure_bsp::structure_bsp_uncompressed_vertex_data_definition	total size:	6536
+scenario_structure_bsp::structure_collision_materials_block	total size:	40
+scenario_structure_bsp::surface	total size:	2268
+scenario_structure_bsp::vertex	total size:	2752
+shader_transparent_generic::shader_transparent_generic_map_block	total size:	100
+sky::sky_light_block	total size:	116
+sound::sound_mouth_data	total size:	4720
+sound::sound_permutations_block	total size:	119768
+sound::sound_pitch_range_block	total size:	132728
+sound::sound_samples	total size:	1268671
+sound::sound_subtitle_data	total size:	0
+vehicle::object_attachment_block	total size:	216
+vehicle::object_change_color_permutations	total size:	28
+vehicle::object_change_colors	total size:	72
+vehicle::object_function_block	total size:	1440
+vehicle::powered_seat_block	total size:	68
+vehicle::unit_camera_track_block	total size:	28
+vehicle::unit_hud_reference_block	total size:	48
+vehicle::unit_seat_block	total size:	312
+vehicle::unit_weapon_block	total size:	36
+weapon::magazine_objects	total size:	56
+weapon::magazines	total size:	672
+weapon::object_attachment_block	total size:	432
+weapon::object_change_colors	total size:	44
+weapon::object_function_block	total size:	3600
+weapon::object_widget_block	total size:	32
+weapon::trigger_firing_effect_block	total size:	660
+weapon::triggers	total size:	1764
+weapon_hud_interface::global_hud_multitexture_overlay_definition	total size:	1840
+weapon_hud_interface::global_hud_multitexture_overlay_effector_definition	total size:	880
+weapon_hud_interface::global_hud_screen_effect_definition	total size:	368
+weapon_hud_interface::weapon_hud_crosshair_block	total size:	2340
+weapon_hud_interface::weapon_hud_crosshair_item_block	total size:	216
+weapon_hud_interface::weapon_hud_static_block	total size:	4400
+

@@ -1,0 +1,85 @@
+                                  header,              (null),      8240
+rasterizer model ambient reflection tint,              (null),        16
+                     screen effect filth,              (null),       120
+                            game globals,              (null),      7952
+                       game time globals,              (null),        48
+                 game allegiance globals,              (null),       180
+                    hud scripted globals,              (null),         4
+                           hud messaging,              (null),      4480
+                      hud unit interface,              (null),       356
+                    hud weapon interface,              (null),       484
+                          hud nav points,              (null),       576
+                   motion sensor (radar),         sensor data,      5544
+                    first person weapons,              (null),     31312
+                        scenario globals,              (null),       256
+                       physics constants,              (null),         4
+                      director scripting,              (null),         4
+             cached object render states,          data array,    131128
+                                  widget,          data array,       824
+                                    flag,          data array,     11696
+                                 antenna,          data array,     16856
+                                    glow,          data array,      4856
+                          glow particles,          data array,     51256
+                           light volumes,          data array,      2104
+                              lightnings,          data array,      2104
+                            unit globals,              (null),         8
+                           device groups,          data array,      8248
+                                  lights,          data array,    111160
+                          lights globals,              (null),         4
+                                   light,  cluster references,      2048
+                 cluster light reference,          data array,     24632
+                 light cluster reference,          data array,     24632
+                                  object,          data array,     24632
+                                 objects,         memory pool,   2097204
+                          object globals,              (null),       152
+                        object name list,              (null),      2560
+                      collideable object,  cluster references,      2048
+    cluster collideable object reference,          data array,     24632
+    collideable object cluster reference,          data array,     24632
+                   noncollideable object,  cluster references,      2048
+ cluster noncollideable object reference,          data array,     24632
+ noncollideable object cluster reference,          data array,     24632
+                structure detail objects,              (null),     84048
+                        structure decals,              (null),         4
+               breakable surface globals,              (null),     16900
+                                  decals,          data array,    458808
+                           decal globals,              (null),     10252
+                      decal vertex cache,          lruv cache,    229500
+                                 players,          data array,     49208
+                         players globals,              (null),       264
+                  player control globals,              (null),       596
+                 players mapping globals,              (null),       232
+                                contrail,          data array,     17464
+                          contrail point,          data array,     57400
+                                particle,          data array,    114744
+                                  effect,          data array,     64568
+                         effect location,          data array,     49976
+                        particle systems,          data array,     21816
+               particle system particles,          data array,     65592
+                           sound classes,              (null),       612
+                   object looping sounds,          data array,     49208
+                      game sound globals,              (null),        12
+                                 vibrate,              (null),      2092
+                          player effects,              (null),      1008
+                              ai globals,              (null),      2132
+                                   actor,          data array,    420920
+                                   swarm,          data array,      4920
+                         swarm component,          data array,     16440
+                                    prop,          data array,    202808
+                               encounter,          data array,     11320
+                                   squad,               squad,     32768
+                                 platoon,             platoon,      3072
+                              ai pursuit,          data array,     10296
+               ai communication dialogue,              (null),      1664
+                ai communication replies,              (null),       720
+                         ai conversation,          data array,       792
+                      object list header,          data array,       632
+                   list object reference,          data array,      1592
+                               hs thread,          data array,    332856
+                              hs globals,          data array,      8248
+                      hs runtime globals,              (null),        12
+                     recorded animations,          data array,      7480
+                       cinematic globals,              (null),        32
+                       achievements info,              (null),       132
+                      game settings info,              (null),         4
+final size 5031448, remaining size 997864, alloc crc 0xB010D914
